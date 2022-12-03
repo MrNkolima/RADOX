@@ -5,4 +5,8 @@ A python script for downloading YouTube audios by typing link
       
       git clone https://github.com/MrNkolima/RADOX.git && cd RADOX && pkg install youtube-dl && python RADOX.py
       
+### Warnings...
+  + It is *python*  dependent 
+  + It is only for *termux* / *android* environment.  
+      
 ## Made by [Isack Philiph](https://twitter.com/isack_nkolima?t=Y-O4vFjrAS1HToQD50L27Q&s=09)
